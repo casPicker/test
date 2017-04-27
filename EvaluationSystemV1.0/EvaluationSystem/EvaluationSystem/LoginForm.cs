@@ -32,6 +32,7 @@ namespace EvaluationSystem
             }
         }
 
+        //改动2
         private void LoginForm_Load(object sender, EventArgs e)
         {
             panel1.BackColor = Color.FromArgb(60, Color.White);

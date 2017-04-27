@@ -111,3 +111,5 @@ E:\Project\EvaluationSystemV1.0\EvaluationSystem\EvaluationSystem\obj\x86\Debug\
 E:\Project\EvaluationSystemV1.0\EvaluationSystem\EvaluationSystem\obj\x86\Debug\EvaluationSystem.ViewForm.ChartForm.resources
 E:\Project\EvaluationSystemV1.0\EvaluationSystem\EvaluationSystem\obj\x86\Debug\EvaluationSystem.ViewForm.MapForm.resources
 E:\Project\EvaluationSystemV1.0\EvaluationSystem\EvaluationSystem\obj\x86\Debug\EvaluationSystem.ViewForm.PDFViewer.resources
+G:\3.小活儿\1.Programming\test\EvaluationSystemV1.0\EvaluationSystem\EvaluationSystem\obj\x86\Debug\EvaluationSystem.exe
+G:\3.小活儿\1.Programming\test\EvaluationSystemV1.0\EvaluationSystem\EvaluationSystem\obj\x86\Debug\EvaluationSystem.pdb
