@@ -2,7 +2,7 @@
 本项目作为熟悉git使用，团队成员可任意修改，熟悉团队协作方式
 
 ##1 Git入门
-
+以下是git相关介绍，可供参考   
 git-scm：[https://git-scm.com/](https://git-scm.com/ "git-scm")  
 廖雪峰-Git教程：[http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)    
 git-for-windows：[https://git-for-windows.github.io/](https://git-for-windows.github.io/)  
